@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grace-morley
 - 👀 I’m curretly working on the pyVolterra module, a python module for solving second order Volterra equations, as well as several other small projects 
 - 🌱 I’m currently learning data science methods
-- 💞️ I’m looking to collaborate on open sorce projects
+- 💞️ I’m looking to collaborate on open source python projects
 - 📫 You can reach me on github or email me @ phillagree@outlook.com
